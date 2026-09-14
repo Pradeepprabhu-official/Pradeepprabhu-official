@@ -1,5 +1,5 @@
 # Hi there 👋 It's me Pradeep
-## 💻 Full stack Web Developer
+## 💻 Full Stack Web Developer
 <img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhqdjd0NGJnaXBxNDhhNnUzZ2JuYzM5YXg3ZGFxbm56a3FuMjR6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif">
 
 - 🚀 Here's my [Portfolio](https://pradeepprabhu.com/) 
